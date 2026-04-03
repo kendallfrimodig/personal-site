@@ -1,7 +1,7 @@
 
 # Currently
 
-living in grand rapids, michigan - recently completed 3 month data-science bootcamp through general assembly.
+living in portland, oregon - recently had been doing biostatistics at kaiser permanente center for health research. 
 on the weekends you can find me backpacking, snowboarding, or working on restoring my van (micro RV)
 
 # Travel / Geography
@@ -12,7 +12,7 @@ on the weekends you can find me backpacking, snowboarding, or working on restori
 - that summer I toured france & italy with a jazz ensemble as part of blue lakes international program
 - following graduate school I supported HIV research analysis in cape town, south africa
 - after completing 6 years of nearly consecutive study, I moved to tacoma, washington to begin my career
-- i spent the last two years in santa fe, new mexico working for the state health department
+
 
 # Dreams
 

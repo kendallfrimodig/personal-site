@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Grand Rapids, MI',
+    value: 'Portland, OR',
   },
 ];
 

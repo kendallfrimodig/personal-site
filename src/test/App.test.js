@@ -73,7 +73,7 @@ const checkPageComponent = async (page) => {
   test(`Renders ${page.route} Component`, () => {
     window.scrollTo = () => {}; // TODO mock this later
     renderWithRouter(<page.component />, { route: page.route });
-    const linkElement = screen.getByTestId('heading');
+    const [linkElement] = screen.getAllByTestId('heading');
     expect(linkElement).toHaveTextContent(page.heading);
   });
 };

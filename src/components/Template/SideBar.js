@@ -19,9 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I’m a data scientist and growth centered individual, driven to find
+      <p>I’m a data specialist and epidemiologist, driven to find
         solutions for complex questions and unravel nuance within data.
-        I recently completed a data science program, and before this I was
+        I recently worked in a biostatistics role with kaiser permanente, and before this I was
         an environmental tracking & GIS epidemiologist
         at <a href="https://www.nmhealth.org/"> the new mexico department of health</a> &
         <a href="https://www.tpchd.org/"> tacoma-pierce county health department</a>

@@ -24,7 +24,7 @@ const Index = () => (
         or view <Link to="/stats">site statistics</Link>, {' '}
       </p>
       <p> A printable copy of my resume can be downloaded
-        <a href="https://drive.google.com/file/d/1kMV6KD7bdm7FIOvrnB3uK1d0DinLN1ys/view?usp=sharing"> *here*</a>
+        <a href="https://drive.google.com/file/d/1LNKb8cbuH3CPhIW5vIn7IozOXnKtVOGg/view?usp=sharing"> *here*</a>
       </p>
     </article>
   </Main>

@@ -53,7 +53,7 @@ const data = [
   },
   {
     title: 'health equity maps',
-    link: 'https://www.tpchd.org/healthy-people/health-equity/health-equity-maps',
+    link: 'https://tpchd.org/info/data/resources/maps/archive/',
     image: '/images/projects/tacoma.jpg',
     date: '2020-01',
     desc:
